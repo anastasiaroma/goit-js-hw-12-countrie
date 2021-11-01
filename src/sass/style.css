@@ -24,6 +24,7 @@ input {
   border: 2px solid #dfe1e5;
   box-shadow: none;
   transition: all 0.3s ease-in-out;
+  font-family: 'Zen Kurenaido', sans-serif;
 }
 input:hover,
 input:focus {
@@ -36,6 +37,7 @@ li {
   font-size: 20px;
   margin: 0;
   margin-top: 20px;
+font-family: 'Zen Kurenaido', sans-serif;
 }
 .js_markup {
   margin-left: 50px;
@@ -64,12 +66,14 @@ li {
 }
 h1 {
   font-size: 60px;
+  font-family: 'Zen Kurenaido', sans-serif;
 }
 .h2 {
   margin-right: 20px;
 }
 .countries-list {
   font-size: 35px;
+  font-family: 'Zen Kurenaido', sans-serif;
 }
 .pnotify {
   position: absolute;
